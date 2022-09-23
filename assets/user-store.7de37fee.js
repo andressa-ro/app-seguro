@@ -1,0 +1,1 @@
+import{a4 as t}from"./index.c86804d0.js";const o=t("user",{state:()=>({user:{id:"",nome:"",email:"",telefone:""},token:""}),getters:{getUser:e=>e.user,getToken:e=>e.token},actions:{setUser(e){this.user=e},setToken(e){this.token=e}}});export{o as u};
